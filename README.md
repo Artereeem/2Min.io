@@ -1,2 +1,2 @@
-# 2Min.com
+# 2Min.io
 Repository of  educational practice
