@@ -19,7 +19,7 @@ body
 
 nav
 {
-    background: #3c5679;
+    background: #ffffff;
     display:flex;
     flex-wrap: wrap;
     align-items: center;
@@ -55,7 +55,7 @@ nav .nav-items li
 
 nav .nav-items li a
 {
-    color:#ffffff;
+    color:#000000;
     font-size: 18px;
     font-weight: 500;
     display:flex;
