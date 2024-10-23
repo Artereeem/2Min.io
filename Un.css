@@ -39,7 +39,7 @@ nav .logo
 nav .logo:hover
 {
     color: #1561ee;
-    transform: translateX(5px);
+    transform: translateY(-5px);
 }
 nav .nav-items
 {
