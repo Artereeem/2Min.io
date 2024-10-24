@@ -32,7 +32,7 @@ nav .logo
 {
     color: #4d99fc;
     height: 50px; 
-    letter-spacing: -5px;
+    letter-spacing: 5px;
     transition:color 1s,transform 1s;
 }
 
